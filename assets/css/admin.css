@@ -1,0 +1,21 @@
+.curm-role-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.curm-role-table th,
+.curm-role-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.curm-role-table th {
+    background-color: #f5f5f5;
+    text-align: left;
+}
+
+.curm-capabilities-select {
+    min-width: 200px;
+    min-height: 100px;
+}
